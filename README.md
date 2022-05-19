@@ -1,6 +1,6 @@
 # boundaries_algoritm_example
 
-Repositorio para el MeetUp Virtual Medellín.
+Repositorio ejemplo
 
 Para instalar GeoPandas seguir el siguiente tutorial (los whl para Python 3.8 están en la carpeta whl):
 
